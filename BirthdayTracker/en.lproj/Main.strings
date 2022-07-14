@@ -1,0 +1,69 @@
+
+/* Class = "UITextField"; placeholder = "Иванов"; ObjectID = "0zm-x2-ii4"; */
+"0zm-x2-ii4.placeholder" = "Иванов";
+
+/* Class = "UITableViewSection"; headerTitle = "Model Name"; ObjectID = "3YM-T8-cf6"; */
+"3YM-T8-cf6.headerTitle" = "Model Name";
+
+/* Class = "UINavigationItem"; title = "День рождения"; ObjectID = "7cs-uC-sIf"; */
+"7cs-uC-sIf.title" = "День рождения";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "8eW-GG-ajJ"; */
+"8eW-GG-ajJ.text" = "Subtitle";
+
+/* Class = "UIViewController"; title = "Добавить день рождения"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Добавить день рождения";
+
+/* Class = "UILabel"; text = "Дополнительное уведомление"; ObjectID = "CBK-nn-6tc"; */
+"CBK-nn-6tc.text" = "Дополнительное уведомление";
+
+/* Class = "UILabel"; text = "Фамилия"; ObjectID = "GoE-kc-Duf"; */
+"GoE-kc-Duf.text" = "Фамилия";
+
+/* Class = "UITextField"; placeholder = "Иван"; ObjectID = "NFc-4w-qMD"; */
+"NFc-4w-qMD.placeholder" = "Иван";
+
+/* Class = "UITableViewSection"; headerTitle = "Price"; ObjectID = "ScB-w5-eQs"; */
+"ScB-w5-eQs.headerTitle" = "Price";
+
+/* Class = "UILabel"; text = "Дата рождения"; ObjectID = "UOZ-ri-TOh"; */
+"UOZ-ri-TOh.text" = "Дата рождения";
+
+/* Class = "UIBarButtonItem"; title = "Готово"; ObjectID = "YVa-qt-m5v"; */
+"YVa-qt-m5v.title" = "Готово";
+
+/* Class = "UILabel"; text = "Имя"; ObjectID = "aYl-aG-xSS"; */
+"aYl-aG-xSS.text" = "Имя";
+
+/* Class = "UILabel"; text = "Идеи для подарка"; ObjectID = "d3r-kb-EcU"; */
+"d3r-kb-EcU.text" = "Идеи для подарка";
+
+/* Class = "UIBarButtonItem"; title = "Готово"; ObjectID = "kPh-D0-1Eq"; */
+"kPh-D0-1Eq.title" = "Готово";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "lkS-gs-1co"; */
+"lkS-gs-1co.text" = "Title";
+
+/* Class = "UITextField"; placeholder = "Книга, комикс, настольная игра, шоколад..."; ObjectID = "pKr-1R-yzh"; */
+"pKr-1R-yzh.placeholder" = "Книга, комикс, настольная игра, шоколад...";
+
+/* Class = "UINavigationItem"; title = "Дни рождения 🎉"; ObjectID = "qUy-tl-MwQ"; */
+"qUy-tl-MwQ.title" = "Дни рождения 🎉";
+
+/* Class = "UINavigationItem"; title = "День рождения"; ObjectID = "rAY-l1-pdt"; */
+"rAY-l1-pdt.title" = "День рождения";
+
+/* Class = "UIBarButtonItem"; title = "Отменить"; ObjectID = "w67-GS-foa"; */
+"w67-GS-foa.title" = "Отменить";
+
+/* Class = "UISegmentedControl"; yPL-6A-W3c.segmentTitles[0] = "Нет"; ObjectID = "yPL-6A-W3c"; */
+"yPL-6A-W3c.segmentTitles[0]" = "Нет";
+
+/* Class = "UISegmentedControl"; yPL-6A-W3c.segmentTitles[1] = "За 7 дней"; ObjectID = "yPL-6A-W3c"; */
+"yPL-6A-W3c.segmentTitles[1]" = "За 7 дней";
+
+/* Class = "UISegmentedControl"; yPL-6A-W3c.segmentTitles[2] = "За 14 дней"; ObjectID = "yPL-6A-W3c"; */
+"yPL-6A-W3c.segmentTitles[2]" = "За 14 дней";
+
+/* Class = "UISegmentedControl"; yPL-6A-W3c.segmentTitles[3] = "За 30 дней"; ObjectID = "yPL-6A-W3c"; */
+"yPL-6A-W3c.segmentTitles[3]" = "За 30 дней";
